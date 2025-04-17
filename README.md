@@ -6,7 +6,19 @@
 </div>
 
 # 💫 About Me:
-I'm an experienced Node.js developer with a strong background in building scalable and efficient web applications. I'm passionate about creating high-quality code and finding innovative solutions to complex problems. With expertise in various Node.js frameworks and libraries, I strive to deliver robust and maintainable software
+About Me
+I'm a Full Stack Developer with strong expertise in Node.js, Angular, and Vue.js, specializing in end-to-end web application development. My backend proficiency includes building scalable APIs with Node.js, working with MongoDB & PostgreSQL, and deploying cloud-native solutions on AWS. On the frontend, I craft responsive, high-performance UIs using modern frameworks like Angular and Vue.js.
+
+I’m passionate about system architecture, performance optimization, and clean code, ensuring robust and maintainable software. My workflow includes Docker for containerization, CI/CD pipelines for seamless deployments, and best practices in DevOps and cloud engineering.
+
+Whether it's designing microservices, optimizing databases, or refining UX, I thrive on solving complex challenges across the entire stack.
+
+Key Skills
+✔ Backend: Node.js, Express, NestJS, FeathersJS
+✔ Frontend: Angular, Vue.js, TypeScript, HTML/CSS
+✔ Databases: MongoDB, Redis, PostgreSQL, MySQL
+✔ Cloud & DevOps: AWS(Lambda, SNS, SQS, S3), Docker, CI/CD (GitHub Actions/Jenkins)
+✔ Other: REST, Microservices, Testing (Jest/Mocha)
 
 
 # 💻 Tech Stack:
