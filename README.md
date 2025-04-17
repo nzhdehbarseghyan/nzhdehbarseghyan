@@ -13,12 +13,18 @@ I’m passionate about system architecture, performance optimization, and clean 
 
 Whether it's designing microservices, optimizing databases, or refining UX, I thrive on solving complex challenges across the entire stack.
 
-Key Skills
+🛠️ Key Skills:
+
 ✔ Backend: Node.js, Express, NestJS, FeathersJS
+
 ✔ Frontend: Angular, Vue.js, TypeScript, HTML/CSS
+
 ✔ Databases: MongoDB, Redis, PostgreSQL, MySQL
+
 ✔ Cloud & DevOps: AWS(Lambda, SNS, SQS, S3), Docker, CI/CD (GitHub Actions/Jenkins)
+
 ✔ Other: REST, Microservices, Testing (Jest/Mocha)
+
 
 
 # 💻 Tech Stack:
